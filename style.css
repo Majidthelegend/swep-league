@@ -13,16 +13,10 @@ h1, h2{
 p{
     font-size: 1.1rem;
 }
-/* body::before{
-    content: '';
-    background-image: url(Football_\(soccer_ball\).svg.png);
-    opacity: .3;
-    position:absolute;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;
-} */
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+}
 @keyframes SlideInFromLeft{
     0%{transform: translateX(-100%);}
     100%{transform: translateX(0%);}

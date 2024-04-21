@@ -13,11 +13,11 @@ h1, h2{
 p{
     font-size: 1.1rem;
 }
-/* body{
-    width: 100vw;
+body{
+    width: 100%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: normal;
-} */
+}
 @keyframes SlideInFromLeft{
     0%{transform: translateX(-100%);}
     100%{transform: translateX(0%);}

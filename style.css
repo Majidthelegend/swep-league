@@ -10,6 +10,9 @@ h1, h2{
     font-style: italic;
     color: brown;
 }
+p{
+    font-size: 1.1rem;
+}
 /* body::before{
     content: '';
     background-image: url(Football_\(soccer_ball\).svg.png);

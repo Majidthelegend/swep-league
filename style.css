@@ -84,6 +84,9 @@ footer .container{
     flex-direction: row;
     justify-content: space-between;
 }
+footer{
+    margin: 0;
+}
 footer img{
     width: 20px;
 }

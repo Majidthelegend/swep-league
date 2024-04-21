@@ -78,6 +78,7 @@ button:hover{
 }
 footer{
     background-color: black;
+    margine:0;
 }
 footer .container{
     color: brown;
